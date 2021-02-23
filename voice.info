@@ -1,7 +1,7 @@
-name=Evgeniy-Eng
-language=English
+name=Evgeniy-Rus
+language=Russian
 gender=male
 format=4
 revision=0
-msi_upgrade_code=7afe9265-f9c5-443d-9b4b-b2742f4e8510
-exe_upgrade_code=a6a097b3-4fb0-4c46-825f-3736cf94a753
+msi_upgrade_code=d0a5d2c9-a538-405a-9b49-d9a830b459a5
+exe_upgrade_code=964c296d-25a0-4c9d-8233-866470f15116
